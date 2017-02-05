@@ -4,7 +4,7 @@
 
 
   <form action="test.php" method="post">
-    Email : <input type="text" name="email">
+    Email : <input type="text" name="emailm">
 
     Password : <input type="password" name="password">
 
